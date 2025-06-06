@@ -11,13 +11,13 @@ const Clientes = () => {
     },
     {
       title: "Apnea de Sueño",
-      description: "Monitores multiparamétricos, ECG, desfibriladores",
-      items: ["Monitores de signos vitales", "ECG de 12 derivaciones", "Desfibriladores", "Holter cardíaco"]
+      description: "Sueño asegurado, una mejor calidad de vida para usted.",
+      items: ["Auto CPAP", "CPAP", "Bipap", "Máscaras nasales y buconasales"]
     },
     {
       title: "Ventilación",
-      description: "Ecógrafos, rayos X portátiles, equipos de ultrasonido",
-      items: ["Ecógrafos 4D", "Rayos X digitales", "Ultrasonido Doppler", "Equipos portátiles"]
+      description: "La ventilación mecánica domiciliaria es el sustitutivo de la musculatura respiratoria.",
+      items: ["Bipap", "Respirador domicilario", "Circuito doble rama", "Filtro bacterial"]
     },
     {
       title: "Bombas de alimentación",
@@ -87,6 +87,8 @@ const Clientes = () => {
           </div>
         </div>
       </div>
+
+      
 
       {/* Categories Section */}
       <div className="py-16">
